@@ -1,1 +1,0 @@
-# glog8_test
